@@ -43,8 +43,6 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
 # ==================== BD ====================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nrDdP6b/Chat-GPT-Image-Sep-8-2026-07-09-50-AM.png" group-title="BD",BIGG BOSS
-http://starshare.org:8080/live/Shah786/Shah1234/796230.ts
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="BD",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
@@ -52,8 +50,6 @@ https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78" group-title="BD",BTV
 https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8?e=1784102574&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c77a7f71fb9c8690eec45bed699ba960
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRWsWkYH/Sangsad-Television-Emblem.jpg" group-title="BD",Sangsad Television
-kj
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="BD",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1784102561&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a4c195d9bcdfa5daa8df1dfd6b28455b
@@ -76,10 +72,10 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a" group-title="BD",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png",Somoy TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="BD",Somoy TV
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png",Independent
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="BD",Independent
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" group-title="BD",Jamuna
@@ -88,7 +84,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" group-title="BD",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD",Channel 24
+#EXTINF:-1 tvg-logo="" group-title="BD",Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BD",DBC News
@@ -100,10 +96,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="BD",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD",Movie Bangla
+#EXTINF:-1 tvg-logo=""group-title="BD",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD",News 24
+#EXTINF:-1 tvg-logo=""group-title="BD",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="BD",Deepto
@@ -112,7 +108,7 @@ https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="BD",Maasranga
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2044540ee613d44b1175f2885b2ab1ee
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD",Ekhon
+#EXTINF:-1 tvg-logo=""group-title="BD",Ekhon
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="BD",Global TV
@@ -133,25 +129,25 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8?e=1784102572&u=ee5437
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="BD",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae3f9c12e1d065b5ae78d27fb2e192fc
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD",Nagorik
+#EXTINF:-1 tvg-logo="" group-title="BD",Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkah Live
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg"group-title="BD",Makkah Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg",Medina Live
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg"group-title="BD",Medina Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png",Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png"group-title="BD",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 ----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png",Quran TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="BD",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 ----------------------------------------------------------------------------------------------------------
 
 # ==================== INDIA ====================
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="INDIA",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="INDIA",Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="INDIA",Zee Bangla HD
