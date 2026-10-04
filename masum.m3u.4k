@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",T Sports HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT9RHC6q/file-00000000f1ec8211b3fb0bbac835932e.png" group-title="SPORTS",T Sports HD
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",PTV
 http://mxonlive.xyz/live/xap/167567.m3u8?e=1790755102&token=f2c9d3ad6395212b2f0f1bf31d55402728faf69f3b7052c36967d1a106e8cad0
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",A Sports HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x87zyLbr/file-00000000bb2c821190fb3269a9880723.png" group-title="SPORTS",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Willow Sports
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -21,13 +21,13 @@ https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 5
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYR3yqwB/file-000000007d3882118e65a27bf9501a69.png" group-title="BD",Drama 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y83T58VG/file-000000009ee88211843b2a5fe3b84514.png" group-title="BD",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",BTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gknyX26P/file-00000000002482118cdeff1fde7236d9.png" group-title="BD",BTV
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1784102561&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a4c195d9bcdfa5daa8df1dfd6b28455b
-#EXTINF:-1 tvg-logo="" group-title="BD",Boishakhi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqz1sL0r/file-00000000db6c820799611cc6241a7acf.png" group-title="BD",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Ekushe TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
