@@ -5,7 +5,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 http://mxonlive.xyz/live/xap/167567.m3u8?e=1790755102&token=f2c9d3ad6395212b2f0f1bf31d55402728faf69f3b7052c36967d1a106e8cad0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x87zyLbr/file-00000000bb2c821190fb3269a9880723.png" group-title="SPORTS",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Willow Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cr5G9sn/file-000000007c0482118c98708e2db35a67.png" group-title="SPORTS",Willow Sports
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Star Sports 1
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
