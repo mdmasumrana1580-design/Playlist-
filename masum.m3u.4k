@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTtnHNvw/Picsart-26-10-06-21-01-21-513.png" group-title="SPORTS",T Sports HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTtnHNvw/Picsart-26
+10-06-21-01-21-513.png" group-title="SPORTS",T Sports HD
 http://103.151.60.162:2122/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBFZm7LN/Picsart-26-10-06-21-04-14-399.png" group-title="SPORTS",PTV
 http://mxonlive.xyz/live/xap/167567.m3u8?e=1790755102&token=f2c9d3ad6395212b2f0f1bf31d55402728faf69f3b7052c36967d1a106e8cad0
