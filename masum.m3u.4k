@@ -96,9 +96,9 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd3NFGNL/Picsart-26-10-08-00-28-59-817.png" group-title="INDIA",Zee Bangla Sonar
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIA",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NDWztC8/Picsart-26-10-08-08-48-35-767.png" group-title="INDIA",Zee Cinema HD
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIA",Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25mJdL8d/Picsart-26-10-08-08-57-26-943.png" group-title="INDIA",Zee Bollywood
 https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLdw30H8/Picsart-26-10-08-01-00-55-592.png" group-title="INDIA",HUM TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
@@ -120,11 +120,11 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R1tFtbY/Picsart-26-10-08-07-54-01-975.png" group-title="INDIA",Zee ২৪ ঘন্টা
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGbsKCnw/Picsart-26-10-08-07-56-40-795.png" group-title="INDIA",Republic বাংলা
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjZ8z8Fp/Picsart-26-10-08-08-51-48-589.png" group-title="INDIA",Republic বাংলা
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ec285d29-f52f-4113-a785-24233ef6d8f5/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbZ7qxdS/Picsart-26-10-08-07-55-10-974.png" group-title="INDIA",TV9 বাংলা
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIA",Aaj Tak HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGbsKCnw/Picsart-26-10-08-07-56-40-795.png" group-title="INDIA",Aaj Tak HD
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTHERS",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
