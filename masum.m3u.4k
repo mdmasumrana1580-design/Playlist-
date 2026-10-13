@@ -150,7 +150,7 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtkcXRd/Picsart-26-10-13-21-15-36-370.png" group-title="OTHERS",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OTHERS",YRF Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh2K8KSp/Picsart-26-10-13-21-16-34-986.png" group-title="OTHERS",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTHERS",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
